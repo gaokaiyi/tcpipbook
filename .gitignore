@@ -1,0 +1,7 @@
+.json
+.md
+.idea 　　　　
+node_modules 　　
+*.log 　　 
+dist 　　　　 　　　　 
+webpack.config.babel.js 
